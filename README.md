@@ -6,7 +6,9 @@ Progress works by measuring the size of the target directory on the destination 
 
 ## Example Usage:
 
-`$ cd /target/directory`
-`$ python progress.py 4500`
+```
+$ cd /target/directory
+$ python progress.py 4500
+```
 
 ...where 4500 equals the total size of the data transfer, in gigabytes.
