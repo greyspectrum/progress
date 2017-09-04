@@ -17,4 +17,6 @@ $ python progress.py 4500
 
 - Dynamic measurements: the script should be able to display file transfer progress over time.
 
+- Estimate time until completion.
+
 - Run from `~/bin`: the user should be able to pass the target directory path to the script as an arguement, so that it can be invoked from `~/bin`, rather than having to run the script from within the target directory that the script is measuring.
