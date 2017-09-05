@@ -15,7 +15,7 @@ $ python progress.py 4500
 
 ## Interface:
 
-Progress provides the following user-facing output:
+Progress provides the following user facing output:
 
 ```
 ----------------------------------------------------------TRANSFER PROGRESS----------------------------------------------------------
