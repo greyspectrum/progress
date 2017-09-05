@@ -13,6 +13,20 @@ $ python progress.py 4500
 
 ...where 4500 equals the total size of the data transfer, in gigabytes.
 
+## Interface:
+
+Progress provides the following user-facing output:
+
+```
+----------------------------------------------------------TRANSFER PROGRESS----------------------------------------------------------
+
+===> THE SIZE OF THIS DIRECTORY IS: 756G
+
+===> THE TRANSFER IS: 33.3333333333% COMPLETED
+
+===> [ PROGRESS = 33 percent ] [|||||||||||||||||||||||||||||||||-------------------------------------------------------------------]
+```
+
 ## TODO
 
 - Dynamic measurements: the script should be able to display file transfer progress over time.
