@@ -20,7 +20,7 @@ Progress provides the following user facing output:
 ```
 ----------------------------------------------------------TRANSFER PROGRESS----------------------------------------------------------
 
-===> THE SIZE OF THIS DIRECTORY IS: 756G
+===> THE SIZE OF THIS DIRECTORY IS: 4.5T
 
 ===> THE TRANSFER IS: 33.3333333333% COMPLETED
 
